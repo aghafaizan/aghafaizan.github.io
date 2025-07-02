@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Project One",
+    "description": "A modern responsive website with clean UI and intuitive navigation.",
+    "image": "https://www.cruiseloloma.co.nz/wp-content/uploads/2014/12/placeholder-400x300.jpg",
+    "liveLink": "https://example.com/project1"
+  },
+  {
+    "title": "Project Two",
+    "description": "An interactive web application with dynamic content and smooth animations.",
+    "image": "https://www.cruiseloloma.co.nz/wp-content/uploads/2014/12/placeholder-400x300.jpg",
+    "liveLink": "https://example.com/project2"
+  },
+  {
+    "title": "Project Three",
+    "description": "A portfolio website with modern design elements and mobile-first approach.",
+    "image": "https://www.cruiseloloma.co.nz/wp-content/uploads/2014/12/placeholder-400x300.jpg",
+    "liveLink": "https://example.com/project3"
+  }
+]
